@@ -56,7 +56,7 @@ A comprehensive Drupal enablement program that blends theory, live demos, and la
 ### 1. Module Fundamentals
 - File structure (`.info.yml`, routing, services, libraries), Composer autoloading.
 - Hooks overview: execution order, return expectations, Configuration vs. Runtime hooks.
-- **Lab**: Scaffold `recco_extensions` module with `hook_help()` and `hook_entity_insert()` logging.
+- **Lab**: Scaffold `training_extensions` module with `hook_help()` and `hook_entity_insert()` logging.
 
 ### 2. Form API & Alterations
 - Form arrays, validation/submit handlers, multistep forms, AJAX callbacks.
@@ -97,7 +97,7 @@ A comprehensive Drupal enablement program that blends theory, live demos, and la
 ### 1. Custom Theme Foundations
 - Theme `.info.yml`, base themes (Stable, Claro, Olivero), asset libraries, breakpoints.
 - Configuration management for themes, enabling/disabling per environment.
-- **Lab**: Scaffold `recco_theme`, register libraries, and override core styling tokens.
+- **Lab**: Scaffold `training_theme`, register libraries, and override core styling tokens.
 
 ### 2. Preprocess & Twig Mastery
 - Twig debugging, template suggestions, includes/extends, filters/functions.
